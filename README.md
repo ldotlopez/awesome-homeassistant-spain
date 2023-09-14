@@ -1,6 +1,6 @@
 # awesome-homeassistant-spain
 
-Recopilación de integraciones de Home Assistant con un uso específico para España o alguna de sus subdivisiones.
+Recopilación de integraciones de Home Assistant con un uso específico para España o alguna de sus regiones.
 
 
 | Categoría |Proyecto| Descripción | Notas |
