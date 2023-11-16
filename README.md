@@ -16,4 +16,5 @@ Recopilación de integraciones de Home Assistant con un uso específico para Esp
 | 🎨 Interfaz   | [PVPC card](https://github.com/danimart1991/pvpc-hourly-pricing-card) | Home Assistant Lovelace custom card to use with Spain electricity hourly pricing (PVPC) integration ||
 | 📦 Paquetería | [Correos](https://github.com/rikman122/homeassistant-correos_spain) | Home Assistant integration to track packages from Correos Spain | Activo? |
 | 🚌 Transporte | [Bus Burgos](https://github.com/ricveal/ha-bus_burgos) | Home Assistant Integration to retrieve the status of the Public Bus Transport in Burgos, Spain.
+| 🚌 Transporte | [EMT Madrid bus](https://github.com/fermartv/emt_madrid) | Home Assistant Integration that allows you to have the waiting time for a specific Madrid-EMT bus stop.
 | 🤖 Hardware   | [MitraStar GPT-2541GNAC](https://github.com/joseska/MitraStar_GPT-2541GNAC_HA) | MitraStar GPT-2541GNAC (Movistar Spain Router) Component(Device Tracker) for Home Assistant  | Activo? |
