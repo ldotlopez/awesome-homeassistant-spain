@@ -9,6 +9,7 @@ Recopilación de integraciones de Home Assistant con un uso específico para Esp
 | ⚡ Energía    | [Gasolineras](https://github.com/MiguelAngelLV/gas_station_spain) | Home Assistant Component for Gas Stations of Spain ||
 | ⚡ Energía    | [i-de.es](https://github.com/ldotlopez/ha-ideenergy) | ideenergy integration for home-assistant ||
 | ⚡ Energía    | [Octopus](https://github.com/MiguelAngelLV/octopus_spain) | Componente para Home Assistant que obtiene la última factura y la Solar Wallet de Octopus Energy Spain. ||
+| ⚡ Energía    | [Octopus (fork)]([https://github.com/MiguelAngelLV/octopus_spain](https://github.com/mandinger/fork-ha-octopus-spain)) | Componente para Home Assistant que obtiene la última factura y la Solar Wallet de Octopus Energy Spain. ||
 | ⚡ Energía    | [OMIE](https://github.com/luuuis/hass_omie) | OMIE Home Assistant Integration || 
 | ⚡ Energía    | [PVPC](https://github.com/azogue/ha-pvpc-custom) | HomeAssistant custom integration for Spain electricity hourly pricing (PVPC) | Integrado en core, mirror |
 | ⚡ Energía    | [Som Energia](https://github.com/hectorespert/som-energia-hass) |  Som Energia for Home Assistant  || 
@@ -19,3 +20,4 @@ Recopilación de integraciones de Home Assistant con un uso específico para Esp
 | 🚌 Transporte | [Bus Burgos](https://github.com/ricveal/ha-bus_burgos) | Home Assistant Integration to retrieve the status of the Public Bus Transport in Burgos, Spain.
 | 🚌 Transporte | [EMT Madrid bus](https://github.com/fermartv/emt_madrid) | Home Assistant Integration that allows you to have the waiting time for a specific Madrid-EMT bus stop.
 | 🤖 Hardware   | [MitraStar GPT-2541GNAC](https://github.com/joseska/MitraStar_GPT-2541GNAC_HA) | MitraStar GPT-2541GNAC (Movistar Spain Router) Component(Device Tracker) for Home Assistant  | Activo? |
+| 🛡️ Seguridad | [Verisure](https://github.com/guerrerotook/securitas-direct-new-api)| Securitas direct API that can be integrated in Home Assistant ||
